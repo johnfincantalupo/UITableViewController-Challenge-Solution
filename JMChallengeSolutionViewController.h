@@ -1,5 +1,5 @@
 //
-//  JMViewController.h
+//  JMChallengeSolutionViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by John Incantalupo on 11/3/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JMViewController : UIViewController
+@interface JMChallengeSolutionViewController : UITableViewController
 
 @end
